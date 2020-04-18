@@ -1,3 +1,3 @@
-FROM ckt1575/apache
+FROM hshar/webapp
 COPY . /var/wwww/html
 
